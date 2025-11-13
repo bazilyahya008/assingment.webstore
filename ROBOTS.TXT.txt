@@ -1,0 +1,6 @@
+# robots.txt for https://bazilyahya008.github.io/assingment.webstore/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://bazilyahya008.github.io/assingment.webstore/sitemap.xml
